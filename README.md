@@ -16,8 +16,8 @@ $ whoami
 
 ## 🔨 Projects I'm (accidentally) maintaining
 
-- [🚀 Diagram Pilot ](https://github.com/synopsys-inc/devops-ai-diagram-pilot) – will finish this... someday 
-
+- [🚀 Diagram Pilot ](https://github.com/synopsys-inc/devops-ai-diagram-pilot)
+- [⚡ DevOps.ai FastAPI ](https://github.com/synopsys-inc/devops-ai-diagram-pilot)
 
 ---
 
